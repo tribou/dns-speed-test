@@ -1,5 +1,19 @@
 # Comcast Speed Test Results (Nashville)
 
+## Common Speed Tests
+
+#### Fast.com 1
+![fast.com](images/fast-com-1.png)
+
+#### Fast.com 2
+![fast.com](images/fast-com-2.png)
+
+#### Speedtest.net 1
+![speedtest.net](images/speedtest-net-1.png)
+
+#### Speedtest.net 2
+![speedtest.net](images/speedtest-net-2.png)
+
 ## DNS Speed Test
 
 [Script source](https://serverfault.com/a/618271/146329)
